@@ -19,7 +19,7 @@ Para garantir máxima velocidade de carregamento e pontuação ideal de performa
 
 O design foi projetado sob uma estética industrial/developer escura, priorizando o contraste e a velocidade de leitura para o usuário final:
 * **Foco em Scannability:** Remoção de blocos fechados e excesso de cards para criar uma leitura contínua orientada por linhas e divisores sutis.
-* **Hierarquia de Cores:** Fundo sóbrio em tom de grafite escuro, textos de apoio em azul de alta fidelidade e destaque numérico estratégico em amarelo cirúrgico.
+* **Hierarquia de Cores:** Fundo sóbrio em tom de grafite escuro, textos de apoio em azul de alta fidelidade e destaque numérico estratégico em amarelo.
 
 ---
 
