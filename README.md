@@ -1,8 +1,8 @@
-#  Currículo Técnico & Engenharia de Performance — v1.0
+#  Currículo Técnico & Engenharia de Performance — v1
 
 Este repositório contém a arquitetura inicial e a interface responsiva do meu currículo profissional focado em desenvolvimento web e performance de conversão. 
 
->  **Nota de Desenvolvimento:** Este projeto representa a **Fase 1 (MVP)** de uma infraestrutura proprietária definitiva. O objetivo atual foi consolidar a identidade visual minimalista, aplicar conceitos de scannability e criar um código limpo, rápido e sem dependências pesadas.
+>  **Nota de Desenvolvimento:** Este projeto representa a **Fase 1** de uma infraestrutura proprietária definitiva. O objetivo atual foi consolidar a identidade visual minimalista, aplicar conceitos de scannability e criar um código limpo, rápido e sem dependências pesadas.
 
 ---
 
