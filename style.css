@@ -218,3 +218,9 @@ body {
         gap: 20px;
     }
 }
+
+.intro-text {
+    color: var(--text-primary) !important;
+    font-size: 0.98rem;
+    font-weight: 500;
+}
